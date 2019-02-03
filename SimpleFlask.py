@@ -1,3 +1,4 @@
+#copyright @Chaya Malik
 # Lahman.py
 # Convert to/from web native JSON and Python/RDB types.
 import json
