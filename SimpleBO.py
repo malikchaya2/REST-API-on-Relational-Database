@@ -1,3 +1,4 @@
+# copyright @Chaya Malik
 #foreign key only for batting to people
 
 import pymysql
